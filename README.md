@@ -1,4 +1,9 @@
-### Hi there 👋
+### Разработчик C++ и UnrealEngine 
+
+Я выпускник курса Яндекс.Практикума по C++
+
+Больше информации по моим навыкам на "Хабр Карьере":
+https://career.habr.com/levmur
 
 <!--
 **Lev-Zhichkin/Lev-Zhichkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
