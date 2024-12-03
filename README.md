@@ -1,4 +1,4 @@
-I hate how much i love C++ and Vulkan but how bad im at them 
+I hate how much i love C++ and Vulkan but how bad im at them. 
 Maybe one day i won't be hating my programming experience 
 
 <!--
