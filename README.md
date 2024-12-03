@@ -1,9 +1,5 @@
-### Разработчик C++ и UnrealEngine 
-
-Я выпускник курса Яндекс.Практикума по C++
-
-Больше информации по моим навыкам на "Хабр Карьере":
-https://career.habr.com/levmur
+I hate how much i love C++ and Vulkan but how bad im at them 
+Maybe one day i won't be hating my programming experience 
 
 <!--
 **Lev-Zhichkin/Lev-Zhichkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
